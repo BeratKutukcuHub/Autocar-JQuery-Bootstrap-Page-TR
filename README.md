@@ -1,4 +1,4 @@
-# Autocar-JQuery-Bootstrap-Page-TR
+# Autocar-JQuery-Bootstrap-Page-TR (Page - Responsive)
 
 # Araba Satın Alma Projesi
 
